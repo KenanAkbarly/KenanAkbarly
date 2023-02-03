@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **akbarlykenan@gmail.com**
 
-- ⚡ Fun fact **I love the weekend**
+- ⚡ Fun fact **I love Mike Tyson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
