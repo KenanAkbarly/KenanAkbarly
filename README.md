@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenan Akbarli</h1>
+<h1 align="center">Hi 👋, I'm Kenan Akbarly</h1>
 - 🌱 I’m currently learning **Frontend,ReactJs**
 
 - 💬 Ask me about **HTML/CSS/SCSS,JavaScript,Jquery,React,NodeJS,MongoDB,ExpressJS**
